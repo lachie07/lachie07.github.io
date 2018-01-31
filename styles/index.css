@@ -1,0 +1,46 @@
+#title {
+	font-size: 60px;
+	font-weight: bold;
+	text-align: center;
+}
+
+#player-amount-container {
+	margin: auto;
+	width: 30%;
+	text-align: center;
+}
+
+#tank-table-container {
+	margin: auto;
+	width: 70%;
+	margin-top: 10px;
+}
+
+#tank-table {
+	width: 100%;
+	border: 1px solid black;
+	text-align: center;
+}
+
+#tank-table td {
+	border: 1px solid black;
+}
+
+.tank-selector {
+	width: 100%;
+}
+
+#player-box-container {
+	margin: auto;
+	width: 70%;
+	margin-top: 10px;
+	text-align: center;
+}
+
+#player-box {
+	width: 100%;
+}
+
+#player-box-button {
+	margin-top: 10px;
+}
